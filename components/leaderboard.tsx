@@ -82,4 +82,3 @@ export function Leaderboard({ extended = false }: { extended?: boolean }) {
     </div>
   )
 }
-
